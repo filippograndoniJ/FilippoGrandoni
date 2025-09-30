@@ -11,4 +11,4 @@ My hobbies are:
 - 🍳Cooking
 - 📚Reading books
 
-You can also check my projects in [my website](https://www.notion.so/A-bit-of-myself-262d22c041794518ba661dc8e77ad438?pvs=74)
+You can also check my projects in [my website](https://www.notion.so/A-bit-of-myself-262d22c041794518ba661dc8e77ad438?pvs=7)
