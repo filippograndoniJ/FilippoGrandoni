@@ -1,4 +1,4 @@
-# FilippoGrandoni
+# Filippo Grandoni
 
 I'm a MSc Statistics student at Imperial College and I'm passionate about applications of statistics in finance and quantitative finance.
 
